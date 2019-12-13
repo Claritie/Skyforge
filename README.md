@@ -1,5 +1,5 @@
-# Skyforge
-When the time comes; the initial CMS for Skyfire.
+# Versatilen 
+When the time comes; the initial CMS for Claritie,  highly functional and flexible.
 
 --
 
